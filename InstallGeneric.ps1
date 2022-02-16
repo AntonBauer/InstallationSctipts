@@ -1,5 +1,5 @@
 # Vivaldi
-choco install vivaldi -
+choco install vivaldi -y
 
 # Notepad++
 choco install notepadplusplus -y
@@ -12,3 +12,6 @@ choco install totalcommander -y
 
 # Calibre
 choco install calibre -y
+
+# Foxit reader
+choco install foxitreader -y
