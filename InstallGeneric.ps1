@@ -9,3 +9,6 @@ choco install 7zip -y
 
 # Total commander
 choco install totalcommander -y
+
+# Calibre
+choco install calibre -y
