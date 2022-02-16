@@ -15,3 +15,12 @@ choco install calibre -y
 
 # Foxit reader
 choco install foxitreader -y
+
+# FreeCAD
+choco install freecad -y
+
+# GuitarPro
+choco install guitar-pro -y
+
+# LightShot
+choco install lightshot -y

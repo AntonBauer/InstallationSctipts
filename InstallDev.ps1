@@ -30,3 +30,6 @@ choco install azure-cli -y
 
 # enable wsl
 wsl --install
+
+# postman
+choco install postman -y
